@@ -18,10 +18,6 @@ Website: https://mmid-bioinformatics-workshop.github.io/
 
 ---
 
-## For in-person attendees
-It is important that you come with the following executable files downloaded to your computer before the workshop to minimize your learning disruption during the workshop.
----
-
 ## Required software for the workshop
 *Refer to the previous workshop materials!*
 https://github.com/mmid-bioinformatics-workshop/2023-03-02-Intro-to-the-2023-MMID-BFX-Workshop/blob/main/README.md#for-windows-user
