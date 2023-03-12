@@ -6,6 +6,8 @@ Date: March 2, 2023
 
 Website: https://mmid-bioinformatics-workshop.github.io/
 
+**YouTube: https://youtu.be/RwSAfbv4btA**
+
 ## The goal of this workshop is to teach the following topics:
 1. Brief overview of WSL Ubuntu installation (for Windows user) via PowerShell
 2. What is GitHub/GitLab? 
